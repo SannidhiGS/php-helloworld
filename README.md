@@ -1,1 +1,3 @@
-# php-helloworld
+<php
+  echo "hello world";
+>
